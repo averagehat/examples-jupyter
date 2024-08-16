@@ -3,7 +3,7 @@
 
 # Jupyter Notebook Example for Posit Connect Cloud Deployment
 
-This example Jupter Notebook performs exploratory analysis on the palmer penguins dataset. 
+This example Jupyter Notebook performs exploratory analysis on the palmer penguins dataset. 
 
 ## Connect Cloud
 
