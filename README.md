@@ -17,7 +17,7 @@ This example Jupyter Notebook performs exploratory analysis on the palmer pengui
 * R Markdown
 
 ## Click image and publish to Connect Cloud
-[<img src="https://github.com/user-attachments/assets/85a1bc9b-5538-4d7d-a98b-745e17b3d054">](https://connect.posit.cloud/publish?contentType=jupyter&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-jupyter&sourceRef=main&sourceRefType=branch&primaryFile=pandas_eda.ipynb&pythonVersion=3.11)
+[<img src="https://github.com/user-attachments/assets/8a0feaf3-4c62-4119-9105-415d837e988d">](https://connect.posit.cloud/publish?contentType=jupyter&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-jupyter&sourceRef=main&sourceRefType=branch&primaryFile=pandas_eda.ipynb&pythonVersion=3.11)
 
 
 Create a [free account](https://connect.posit.cloud/), visit the [documentation](https://docs.posit.co/connect-cloud/), and join the [community](https://forum.posit.co/c/posit-professional-hosted/posit-connect-cloud/67). 
