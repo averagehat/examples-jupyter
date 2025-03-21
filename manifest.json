@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "jupyter-static",
+    "entrypoint": "pandas_eda.ipynb"
+  },
+  "python": {
+    "version": "3.11.11",
+    "package_manager": {
+      "name": "pip",
+      "version": "24.1.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "pandas_eda.ipynb": {
+      "checksum": "82ba9e866253956c1b2ddb985ba9d99d"
+    },
+    "requirements.txt": {
+      "checksum": "d470e8a185655d829f3655e8927d6867"
+    }
+  }
+}
